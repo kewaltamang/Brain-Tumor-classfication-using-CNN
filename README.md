@@ -23,3 +23,5 @@ FUTURE ENHANCEMENT:
 Expansion to include additional tumor types.
 Integration with FPGA for accelerated inference in real-time applications.
 Further optimization of the model for even higher accuracy and efficiency.
+![image](https://github.com/user-attachments/assets/8a2f4c26-a8a1-46da-9bd4-d3a703d5d871)
+
